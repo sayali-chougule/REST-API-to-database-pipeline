@@ -1,2 +1,4 @@
 .apiPipeline/*
 logs/*
+.env
+.env.example
